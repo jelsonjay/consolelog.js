@@ -1,2 +1,3 @@
-# consolelog.js
-  There are several other console methods in javascript that you have never seen
+# Consoles methods in JavaScript
+
+Just to show there are several other console methods in javascript
